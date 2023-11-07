@@ -19,6 +19,7 @@ Steps to Test Application
 
 Verify Response
 ---------------
+```
 *   Trying 127.0.0.1:8080...
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
@@ -64,5 +65,5 @@ Verify Response
     "role": "Dev"
   }
 ]
-
+```
              
